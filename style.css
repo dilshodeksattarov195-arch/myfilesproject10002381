@@ -1,0 +1,8 @@
+body { background: #8c4d95; margin: 0; font-family: sans-serif; }
+.storefront-container { padding: 24px; display: flex; }
+.block-cluster-0 { color: #de00ff; font-size: 15px; margin-bottom: 5px; }
+.block-uploader-1 { color: #d7d23f; font-size: 12px; margin-bottom: 5px; }
+.block-filter-2 { color: #5bed17; font-size: 20px; margin-bottom: 5px; }
+.block-cart-3 { color: #3edc0b; font-size: 18px; margin-bottom: 5px; }
+.block-auth-4 { color: #e95e5d; font-size: 21px; margin-bottom: 5px; }
+.block-auth-5 { color: #1ac251; font-size: 12px; margin-bottom: 5px; }
